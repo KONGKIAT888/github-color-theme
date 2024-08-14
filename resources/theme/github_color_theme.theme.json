@@ -16,7 +16,7 @@
       "selectionBackground": "secondary",
       "selectionForeground": "text",
       "selectionInactiveBackground": "secondary",
-      "inactiveBackground": "#3c3f41",
+      "inactiveBackground": "primary",
       "selectionInactiveForeground": "#ffffff",
       "borderColor": "#444444",
       "separatorColor": "#444444"
@@ -83,7 +83,6 @@
         "Actions.Green": "#71bf47",
         "Actions.Blue": "#3062d1",
         "Actions.GreyInline.Dark": "#6F6F70",
-
         "Objects.Grey": "#6F6F70",
         "Objects.RedStatus": "#FC4741",
         "Objects.Red": "#FC545B",
