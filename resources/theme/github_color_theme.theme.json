@@ -1,0 +1,101 @@
+{
+  "name": "Github Color Theme",
+  "author": "YourCompany",
+  "dark": true,
+  "editorScheme": "/theme/github_color_theme.xml",
+  "colors": {
+    "primary": "#252526",
+    "secondary": "#29903b",
+    "text": "#D4D4D4"
+  },
+  "ui": {
+    "*": {
+      "arc": "7",
+      "background": "primary",
+      "foreground": "text",
+      "selectionBackground": "secondary",
+      "selectionForeground": "text",
+      "selectionInactiveBackground": "secondary",
+      "inactiveBackground": "#3c3f41",
+      "selectionInactiveForeground": "#ffffff",
+      "borderColor": "#444444",
+      "separatorColor": "#444444"
+    },
+    "ActionButton": {
+      "hoverBackground": "secondary",
+      "hoverBorderColor": "secondary",
+      "pressedBackground": "secondary",
+      "pressedBorderColor": "secondary"
+    },
+    "Borders": {
+      "color": "#444444",
+      "ContrastBorderColor": "#444444"
+    },
+    "Button": {
+      "default": {
+        "foreground": "text",
+        "startBackground": "secondary",
+        "endBackground": "secondary",
+        "startBorderColor": "secondary",
+        "endBorderColor": "secondary"
+      }
+    },
+    "DefaultTabs": {
+      "underlineColor": "secondary",
+      "underlineHeight": 4
+    },
+    "Link": {
+      "activeForeground": "#00CC00",
+      "hoverForeground": "secondary",
+      "pressedForeground": "#00CC00",
+      "visitedForeground": "secondary"
+    },
+    "ProgressBar": {
+      "trackColor": "#252525",
+      "progressColor": "secondary",
+      "indeterminateStartColor": "#00AA00",
+      "indeterminateEndColor": "#006600"
+    },
+    "SearchMatch": {
+      "startBackground": "#f39c12",
+      "endBackground": "#f39c12"
+    },
+    "ToggleButton": {
+      "onBackground": "secondary"
+    },
+    "ToolWindow": {
+      "Button": {
+        "selectedBackground": "secondary",
+        "hoverBackground": "secondary"
+      }
+    },
+    "Tree": {
+      "selectionForeground": "#ffffff",
+      "modifiedItemForeground": "#ff0000",
+      "hash": "#454545",
+      "rowHeight": 24
+    },
+    "icons": {
+      "ColorPalette": {
+        "Actions.Grey": "#969798",
+        "Actions.Red": "#FC545B",
+        "Actions.Yellow": "#e0c24c",
+        "Actions.Green": "#71bf47",
+        "Actions.Blue": "#3062d1",
+        "Actions.GreyInline.Dark": "#6F6F70",
+
+        "Objects.Grey": "#6F6F70",
+        "Objects.RedStatus": "#FC4741",
+        "Objects.Red": "#FC545B",
+        "Objects.Pink": "#F5539E",
+        "Objects.Yellow": "#e0c24c",
+        "Objects.Green": "#71bf47",
+        "Objects.Blue": "#3062d1",
+        "Objects.Purple": "#A453A5",
+        "Objects.BlackText": "#000000",
+        "Objects.YellowDark": "#89744D",
+        "Objects.GreenAndroid": "#5D7554"
+      }
+    }
+  }
+}
