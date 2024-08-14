@@ -1,8 +1,8 @@
-<scheme name="Github Color Theme" version="142" parent_scheme="Dark">
+<scheme name="Github Color Theme" version="142" parent_scheme="Darcula">
     <metaInfo>
         <property name="ide">idea</property>
         <property name="ideVersion">2024.2.0.0</property>
-        <property name="originalScheme">Github Color Scheme Dark</property>
+        <property name="originalScheme">Github Color Theme</property>
     </metaInfo>
     <colors>
         <option name="CARET_COLOR" value="79c0ff"/>
