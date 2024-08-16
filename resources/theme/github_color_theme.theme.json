@@ -51,16 +51,18 @@
       "inactiveUnderlineColor": "primary"
     },
     "Link": {
-      "activeForeground": "#0000cc",
-      "hoverForeground": "secondary",
+      "activeForeground": "secondary",
+      "hoverForeground": "#2aaaee",
       "pressedForeground": "#0000cc",
       "visitedForeground": "secondary"
     },
     "ProgressBar": {
-      "trackColor": "#252525",
-      "progressColor": "secondary",
-      "indeterminateStartColor": "#0000aa",
-      "indeterminateEndColor": "#000066"
+      "failedColor": "#ff5554",
+      "failedEndColor": "#ff5554",
+      "indeterminateStartColor": "secondary",
+      "indeterminateEndColor": "#2a7aef50",
+      "passedColor": "#50fa7b",
+      "passedEndColor": "#50fa7b"
     },
     "SearchMatch": {
       "startBackground": "#f39c12",
