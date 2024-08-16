@@ -1,11 +1,11 @@
 {
   "name": "Github Color Theme",
-  "author": "YourCompany",
+  "author": "Kongkiat",
   "dark": true,
   "editorScheme": "/theme/github_color_theme.xml",
   "colors": {
     "primary": "#252526",
-    "secondary": "#29903b",
+    "secondary": "#2a7aef",
     "text": "#D4D4D4"
   },
   "ui": {
@@ -15,7 +15,7 @@
       "foreground": "text",
       "selectionBackground": "secondary",
       "selectionForeground": "text",
-      "selectionInactiveBackground": "secondary",
+      "selectionInactiveBackground": "#2a7aef30",
       "inactiveBackground": "primary",
       "selectionInactiveForeground": "#ffffff",
       "borderColor": "#444444",
@@ -44,17 +44,23 @@
       "underlineColor": "secondary",
       "underlineHeight": 4
     },
+    "EditorTabs": {
+      "background": "primary",
+      "underlinedTabBackground": "#181819",
+      "underlineColor": "secondary",
+      "inactiveUnderlineColor": "primary"
+    },
     "Link": {
-      "activeForeground": "#00CC00",
+      "activeForeground": "#0000cc",
       "hoverForeground": "secondary",
-      "pressedForeground": "#00CC00",
+      "pressedForeground": "#0000cc",
       "visitedForeground": "secondary"
     },
     "ProgressBar": {
       "trackColor": "#252525",
       "progressColor": "secondary",
-      "indeterminateStartColor": "#00AA00",
-      "indeterminateEndColor": "#006600"
+      "indeterminateStartColor": "#0000aa",
+      "indeterminateEndColor": "#000066"
     },
     "SearchMatch": {
       "startBackground": "#f39c12",
@@ -71,7 +77,6 @@
     },
     "Tree": {
       "selectionForeground": "#ffffff",
-      "modifiedItemForeground": "#ff0000",
       "hash": "#454545",
       "rowHeight": 24
     },
